@@ -1,0 +1,9 @@
+Cycloheximide_CID_6197 passed Lipinski and passed Veber rules; grouped in KMeans cluster 2 and Agglomerative cluster 0.
+Dactinomycin_CID_457193 failed Lipinski and failed Veber rules; grouped in KMeans cluster 0 and Agglomerative cluster 2.
+Lovastatin_CID_53232 passed Lipinski and passed Veber rules; grouped in KMeans cluster 1 and Agglomerative cluster 0.
+Rifampicin_CID_135398735 failed Lipinski and failed Veber rules; grouped in KMeans cluster 0 and Agglomerative cluster 1.
+SalinosporamideA_CID_11347535 passed Lipinski and passed Veber rules; grouped in KMeans cluster 2 and Agglomerative cluster 0.
+Erythromycin_CID_12560 failed Lipinski and failed Veber rules; grouped in KMeans cluster 0 and Agglomerative cluster 1.
+Fumagillin_CID_6917655 passed Lipinski and passed Veber rules; grouped in KMeans cluster 1 and Agglomerative cluster 0.
+Staurosporine_CID_44259 passed Lipinski and passed Veber rules; grouped in KMeans cluster 2 and Agglomerative cluster 0.
+rapamycin_CID_5284616 failed Lipinski and failed Veber rules; grouped in KMeans cluster 0 and Agglomerative cluster 1.

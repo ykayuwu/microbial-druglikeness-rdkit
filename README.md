@@ -62,8 +62,7 @@ This work is shared under the [MIT License](LICENSE). You are free to use, modif
 
 If you use this project, please cite as:
 
-> *Yathu Research et al. (2025)*. *"A Mini-Study on Drug-likeness and Chemical Space of Microbial Natural Products Using RDKit and PCA"*. Preprint pending.
-
+> 
 ---
 
 ## ✨ Acknowledgements
